@@ -7,10 +7,10 @@ from selenium.common.exceptions import ElementClickInterceptedException, StaleEl
     NoSuchElementException
 from time import sleep
 
-CHROME_DRIVER_PATH = "C:\Developement\chromedriver.exe"
-USERNAME = "automated_python_bot"
-PASSWORD = "meat@automated_python_bot"
-TARGET_AC = "prathamesh_dol196"
+CHROME_DRIVER_PATH = "YOUR CHROME DRIVER PATH"
+USERNAME = "INSTAGRAM ID"
+PASSWORD = "INSTAGRAM PASSWORD"
+TARGET_AC = "TARGET ACCOUNT"
 
 
 class InstaFollower:
